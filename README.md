@@ -23,7 +23,7 @@
 - Simulation Wokwi pour tester sans matériel
 
 ## Démarrer en 60 secondes
-1. Ouvrir la simulation Wokwi: https://wokwi.com/projects/447990912768428033
+1. Ouvrir la simulation Wokwi
 2. Lancer “Run” et explorer les capteurs (modifier les valeurs dans la simu)
 3. Observer l’affichage et tester les scripts `publisher.py` / `simple.py`
 
