@@ -40,10 +40,6 @@
   <p align="center"><em>Figures 1–3 — Écrans et capteurs du moniteur de climat domestique</em></p>
 </div>
 
-## Schéma & Simulation
-- Schéma de câblage : voir `diagram.json` (export Wokwi)
-- Simuler ce projet : https://wokwi.com/projects/447990912768428033 (voir aussi `wokwi-project.txt`)
-
 ## Fonctionnalités
 - Lecture de capteurs environnementaux
 - Affichage des mesures et états
