@@ -9,7 +9,6 @@
   <rect width="100%" height="90" fill="url(#grad-sh)" />
   <text x="50%" y="55%" dominant-baseline="middle" text-anchor="middle" fill="#ffffff" font-size="24" font-family="Segoe UI, Roboto, Arial, sans-serif">Smart House Climate Monitor — ESP32 + MicroPython</text>
 </svg>
-<p align="center"><a href="https://wokwi.com/projects/447990912768428033" style="display:inline-block;padding:10px 16px;background:#00a58f;color:#fff;text-decoration:none;border-radius:8px;font-weight:600">▶ Voir la simulation Wokwi</a></p>
 
 [![Wokwi](https://img.shields.io/badge/Simulate-Wokwi-00a58f?logo=wokwi)](https://wokwi.com/projects/447990912768428033)
 [![MicroPython](https://img.shields.io/badge/MicroPython-ESP32-2c3e50?logo=micropython)](https://micropython.org/)
